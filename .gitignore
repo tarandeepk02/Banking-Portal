@@ -1,0 +1,4 @@
+server/node_modules
+server/.env
+react/node_modules
+react/.parcel-cache

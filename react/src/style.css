@@ -1,0 +1,32 @@
+
+.admin-header {
+  background-color: #e0f0ff; /* Light sky blue to contrast dark body */
+  /* background-image: url('/img/admin-header-bg.jpg'); */ /* optional if you want an image */
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100px;
+  padding: 0;
+  border-bottom: 1px solid #ccc;
+}
+
+/* Header */
+.admin-header {
+  background-color: #2d3748;
+  color: #edf2f7;
+}
+
+/* Footer */
+.admin-footer {
+  background-color: #2d3748; /* Dark gray background */
+  color: #edf2f7; /* Light gray text */
+  text-align: center; /* Center the text horizontally */
+  padding: 20px 10px; /* Increased top/bottom padding, same left/right */
+  font-size: 0.9rem; /* Slightly smaller font size */
+  border-top: 1px solid #4a5568; /* Add a subtle top border */
+ 
+}
+
+.fs-13 {
+  font-size: 13px;
+}
